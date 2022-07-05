@@ -4,7 +4,7 @@
 3)git push
 
 Чтобы получить новые файлы:
-1)got pull
+1)git pull
 
 
 
